@@ -11,4 +11,3 @@ Ignacio Facundo Ruiz - Agustina Dorado - Maximiliano Martinez
 <img width="837" height="366" alt="image" src="https://github.com/user-attachments/assets/251cc6d9-d082-413a-b2ad-01fbd89533ce" />
 
 
-<img width="422" height="307" alt="image" src="https://github.com/user-attachments/assets/09341d84-90bf-45da-8734-fa197af2c5f2" />

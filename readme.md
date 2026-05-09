@@ -6,3 +6,5 @@ Este proyecto es la resolución del Trabajo Práctico de la Unidad 5 de Programa
 Para probar la versión principal por consola, debes ejecutar el archivo main.py en tu entorno. 
 
 Tambien a su vez disponemos de una version con una simple interfaz gráfica, ejecuta main_gui.py. El sistema se encarga de generar automáticamente la base de datos necesaria al iniciar, por lo que no requieres configuraciones manuales previas.
+
+Ignacio Facundo Ruiz - Agustina Dorado - Maximiliano Martinez
